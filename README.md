@@ -8,7 +8,7 @@ The goal is to restore images by smoothly propagating surrounding pixel informat
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives:
 - Understand and implement **diffusion-based inpainting**
 - Apply **PDE-based methods** for image restoration
 - Remove objects, scratches, and text from images
@@ -16,7 +16,7 @@ The goal is to restore images by smoothly propagating surrounding pixel informat
 
 ---
 
-## 🧠 Methodology
+## 🧠 Methodology:
 The project follows a **diffusion-based PDE approach**, where:
 - Missing regions are filled by **interpolating pixel values**
 - **Isophote (edge) directions** are extended into the damaged region
